@@ -4,3 +4,9 @@
 [submodule "lib/forge-std"]
 	path = lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "BTC-token-contract"]
+	path = BTC-token-contract
+	url = https://github.com/caoshanhuyi/BTC-token-contract.git
+[submodule "BTC-bridge-frontend"]
+	path = BTC-bridge-frontend
+	url = https://github.com/caoshanhuyi/BTC-bridge-frontend.git
